@@ -1,0 +1,45 @@
+* {
+    margin-left: 0;
+    margin-right: 0;
+    text-decoration: none;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    font-size: 25px;
+}
+
+.foto__adega {
+    width: 550px;
+    height: 450px;
+    border-radius: 7px;
+}
+
+.descricao_adega {
+    font-size: 18px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.rede_social {
+    width: 20px;
+    height: 20px;
+    margin-top: 35px;
+    margin-right: 7px;
+    margin-left: 20px;
+}
